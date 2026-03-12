@@ -126,6 +126,7 @@ The version available in this repository was **reconstructed and organized by me
 **Juan Esteban Cárdenas Huertas**
 
 Systems Engineering Student
+
 Software Developer / Backend Developer
 
 GitHub:
